@@ -1,5 +1,9 @@
-*.dmb
-*.rsc
-*.int
-*.lk
-*.zip
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
